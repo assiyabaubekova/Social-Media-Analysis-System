@@ -146,4 +146,6 @@ joblib
 
 Python · scikit-learn · TensorFlow/Keras · YOLOv8 (Ultralytics) · Flask · pandas · Pillow
 
+[![Open in Spaces](https://huggingface.co/datasets/huggingface/badges/resolve/main/open-in-hf-spaces-sm.svg)](https://huggingface.co/spaces/asbama/Pinterest_analyzer)
+
 *Project built as part of a data science portfolio*
